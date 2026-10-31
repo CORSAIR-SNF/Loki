@@ -103,7 +103,7 @@ format: Alto-XML
 hands:
   count: unknown
   precision: exact
-institutions: University of Geneva & SNF
+institutions: [University of Geneva & SNF]
 language:
 - fra
 license:
@@ -115,12 +115,12 @@ project-website: https://data.snf.ch/grants/grant/222557
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
 - iso: Latn
-script-type: prints
+script-type: 'only-typed'
 time:
   notAfter: '1611'
   notBefore: '1560'
 title: CORSAIR-FR-PRINT-16-ATR
-url:
+url: https://github.com/CORSAIR-SNF/CORSAIR-FR-PRINT-16-ATR
 volume:
 - count: 188649
   metric: characters
