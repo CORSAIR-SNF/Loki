@@ -97,8 +97,8 @@ characters:
   - ꝰ
   - ꝗ
   mode: NFD
-description: Dataset of 16th century french prints for a stylometry project of 
-  CORSAIR Project,
+description: Dataset of 16th century french prints for a stylometry project of CORSAIR
+  Project,
 format: Alto-XML
 hands:
   count: unknown
