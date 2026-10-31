@@ -112,7 +112,7 @@ license:
 production-software: eScriptorium + Kraken
 project-name: CORSAIR Project part of SNF no 222557
 project-website: https://data.snf.ch/grants/grant/222557
-schema:
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
 - iso: Latn
 script-type: prints
