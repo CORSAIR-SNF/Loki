@@ -586,13 +586,13 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3226"
-                   VPOS="4097"
-                   WIDTH="325"
-                   HEIGHT="372"
+        <TextBlock HPOS="3210"
+                   VPOS="4082"
+                   WIDTH="341"
+                   HEIGHT="387"
                    ID="eSc_textblock_d8239f7c"
                    TAGREFS="BT13">
-          <Shape><Polygon POINTS="3551 4097 3551 4469 3226 4469 3260 4097"/></Shape>
+          <Shape><Polygon POINTS="3551 4097 3551 4469 3226 4469 3210 4082"/></Shape>
           <TextLine ID="eSc_line_9de6d7b2"
                     TAGREFS="LT8"
                     BASELINE="3236 4142 3509 4142" 
@@ -721,7 +721,7 @@
                    HEIGHT="689"
                    ID="eSc_textblock_c374c217"
                    TAGREFS="BT4215">
-          <Shape><Polygon POINTS="478 294 478 983 3170 983 3170 294"/></Shape>
+          <Shape><Polygon POINTS="478 294 478 983 3170 983 3160 319"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

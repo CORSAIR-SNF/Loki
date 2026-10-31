@@ -332,11 +332,11 @@
         </TextBlock>
         <TextBlock HPOS="295"
                    VPOS="2663"
-                   WIDTH="3122"
+                   WIDTH="3097"
                    HEIGHT="3043"
                    ID="eSc_textblock_0ed4ff4b"
                    TAGREFS="BT4229">
-          <Shape><Polygon POINTS="295 2666 313 5706 3417 5661 3392 2663"/></Shape>
+          <Shape><Polygon POINTS="295 2666 313 5706 3377 5651 3392 2663"/></Shape>
           <TextLine ID="eSc_line_d56009c9"
                     TAGREFS="LT8"
                     BASELINE="427 2741 3373 2727" 

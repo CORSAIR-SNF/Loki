@@ -627,10 +627,10 @@
         <TextBlock HPOS="389"
                    VPOS="3136"
                    WIDTH="1796"
-                   HEIGHT="256"
+                   HEIGHT="190"
                    ID="eSc_textblock_5970b46d"
                    TAGREFS="BT4263">
-          <Shape><Polygon POINTS="389 3136 389 3392 2185 3392 2185 3136"/></Shape>
+          <Shape><Polygon POINTS="389 3136 389 3326 2172 3312 2185 3136"/></Shape>
           <TextLine ID="eSc_line_96fabcfb"
                     TAGREFS="LT8"
                     BASELINE="431 3212 2166 3193" 

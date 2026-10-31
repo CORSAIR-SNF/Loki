@@ -22,59 +22,13 @@
                   VPOS="0"
                   WIDTH="2807"
                   HEIGHT="3807">
-        <TextBlock HPOS="676"
-                   VPOS="348"
-                   WIDTH="1195"
-                   HEIGHT="91"
-                   ID="eSc_textblock_95f73f62"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="676 348 676 439 1871 439 1871 348"/></Shape>
-          <TextLine ID="eSc_line_8c47b7db"
-                    TAGREFS="LT8"
-                    BASELINE="685 408 1855 406" 
-                    HPOS="683"
-                    VPOS="346"
-                    WIDTH="1172"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1846 353 1838 348 1707 346 1698 346 1677 346 1656 346 1635 346 1613 346 1592 346 1571 346 1550 346 1529 346 1508 346 1487 346 1484 346 1470 361 1381 361 1345 346 1338 346 1317 346 1303 346 1260 353 1233 346 1233 346 1212 346 1190 346 1178 346 1157 353 1087 346 1085 346 1063 346 1042 346 1021 346 1000 346 979 346 968 346 953 361 901 361 888 348 888 346 886 346 884 346 882 346 879 346 852 357 693 357 683 363 685 408 685 442 1853 433 1855 406 1850 353 1846 353"/></Shape>
-            <String CONTENT="SIEVR D’AVBIGNÉ, LIVRE I."
-                    HPOS="683"
-                    VPOS="346"
-                    WIDTH="1172"
-                    HEIGHT="96"
-                    ></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2111"
-                   VPOS="351"
-                   WIDTH="113"
-                   HEIGHT="78"
-                   ID="eSc_textblock_00e2302f"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="2111 351 2111 429 2224 429 2224 351"/></Shape>
-          <TextLine ID="eSc_line_2248b619"
-                    TAGREFS="LT8"
-                    BASELINE="2130 408 2168 410" 
-                    HPOS="2127"
-                    VPOS="370"
-                    WIDTH="41"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="2155 370 2130 370 2130 408 2127 429 2161 442 2168 410 2168 374 2155 370"/></Shape>
-            <String CONTENT="15"
-                    HPOS="2127"
-                    VPOS="370"
-                    WIDTH="41"
-                    HEIGHT="72"
-                    ></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="362"
-                   VPOS="439"
-                   WIDTH="1864"
-                   HEIGHT="2881"
-                   ID="eSc_textblock_781ab487"
+        <TextBlock HPOS="380"
+                   VPOS="438"
+                   WIDTH="1815"
+                   HEIGHT="2855"
+                   ID="eSc_textblock_3c321a53"
                    TAGREFS="BT4255">
-          <Shape><Polygon POINTS="369 439 363 1930 362 2075 369 3320 1410 3296 2226 3313 2220 2657 2220 1843 2224 439"/></Shape>
+          <Shape><Polygon POINTS="388 438 380 3293 2195 3293 2195 450"/></Shape>
           <TextLine ID="eSc_line_2fe60f1f"
                     TAGREFS="LT8"
                     BASELINE="404 497 909 484 2182 484" 
@@ -689,6 +643,52 @@
                     WIDTH="1779"
                     HEIGHT="118"
                     WC="0.9719423320558336"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="676"
+                   VPOS="348"
+                   WIDTH="1195"
+                   HEIGHT="91"
+                   ID="eSc_textblock_95f73f62"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="676 348 676 439 1871 439 1871 348"/></Shape>
+          <TextLine ID="eSc_line_8c47b7db"
+                    TAGREFS="LT8"
+                    BASELINE="685 408 1855 406" 
+                    HPOS="683"
+                    VPOS="346"
+                    WIDTH="1172"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1846 353 1838 348 1707 346 1698 346 1677 346 1656 346 1635 346 1613 346 1592 346 1571 346 1550 346 1529 346 1508 346 1487 346 1484 346 1470 361 1381 361 1345 346 1338 346 1317 346 1303 346 1260 353 1233 346 1233 346 1212 346 1190 346 1178 346 1157 353 1087 346 1085 346 1063 346 1042 346 1021 346 1000 346 979 346 968 346 953 361 901 361 888 348 888 346 886 346 884 346 882 346 879 346 852 357 693 357 683 363 685 408 685 442 1853 433 1855 406 1850 353 1846 353"/></Shape>
+            <String CONTENT="SIEVR D’AVBIGNÉ, LIVRE I."
+                    HPOS="683"
+                    VPOS="346"
+                    WIDTH="1172"
+                    HEIGHT="96"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2111"
+                   VPOS="351"
+                   WIDTH="113"
+                   HEIGHT="78"
+                   ID="eSc_textblock_00e2302f"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2111 351 2111 429 2224 429 2224 351"/></Shape>
+          <TextLine ID="eSc_line_2248b619"
+                    TAGREFS="LT8"
+                    BASELINE="2130 408 2168 410" 
+                    HPOS="2127"
+                    VPOS="370"
+                    WIDTH="41"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2155 370 2130 370 2130 408 2127 429 2161 442 2168 410 2168 374 2155 370"/></Shape>
+            <String CONTENT="15"
+                    HPOS="2127"
+                    VPOS="370"
+                    WIDTH="41"
+                    HEIGHT="72"
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1796"

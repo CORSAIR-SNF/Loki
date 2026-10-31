@@ -650,11 +650,11 @@
         </TextBlock>
         <TextBlock HPOS="309"
                    VPOS="1334"
-                   WIDTH="1871"
+                   WIDTH="1814"
                    HEIGHT="196"
                    ID="eSc_textblock_93be4fa0"
                    TAGREFS="BT4249">
-          <Shape><Polygon POINTS="309 1334 309 1530 2180 1530 2180 1334"/></Shape>
+          <Shape><Polygon POINTS="309 1334 309 1530 2096 1530 2123 1334"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
