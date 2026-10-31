@@ -103,7 +103,7 @@ format: Alto-XML
 hands:
   count: unknown
   precision: exact
-institutions: ["University of Geneva & SNF"]
+institutions: [University of Geneva & SNF]
 language:
 - fra
 license:
