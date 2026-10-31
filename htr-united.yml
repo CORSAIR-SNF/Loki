@@ -34,8 +34,8 @@ characters:
   - g
   - y
   - v
-  - '&'
   - ¬
+  - '&'
   - h
   - b
   - .
@@ -47,30 +47,30 @@ characters:
   - C
   - ':'
   - E
-  - I
-  - A
   - z
+  - A
   - P
+  - I
   - M
-  - S
-  - D
   - L
+  - D
+  - S
   - F
   - V
   - j
   - G
   - ̧
   - T
-  - "'"
-  - '0'
   - B
+  - '0'
+  - "'"
   - H
   - N
-  - '-'
   - )
   - (
-  - ̈
   - O
+  - '-'
+  - ̈
   - '1'
   - X
   - '2'
@@ -78,16 +78,16 @@ characters:
   - '5'
   - œ
   - '3'
-  - '?'
   - '4'
+  - '?'
   - '6'
-  - '8'
   - '7'
+  - '8'
   - '9'
   - Y
   - Z
-  - k
   - U
+  - k
   - ;
   - ̂
   - '"'
@@ -95,11 +95,10 @@ characters:
   - $
   - ¨
   - ꝰ
-  - K
   - ꝗ
   mode: NFD
-description: Dataset of 16th century french prints for a stylometry project of CORSAIR
-  Project,
+description: Dataset of 16th century french prints for a stylometry project of 
+  CORSAIR Project,
 format: Alto-XML
 hands:
   count: unknown
@@ -123,11 +122,11 @@ time:
 title: CORSAIR-FR-PRINT-16-ATR
 url:
 volume:
-- count: 166889
+- count: 188649
   metric: characters
-- count: 99
+- count: 116
   metric: files
-- count: 3994
+- count: 4607
   metric: lines
-- count: 565
+- count: 637
   metric: regions
